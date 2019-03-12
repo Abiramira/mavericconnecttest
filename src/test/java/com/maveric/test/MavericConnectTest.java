@@ -71,7 +71,7 @@ public class MavericConnectTest extends LaunchActivities{
 		}
 		else
 		{
-			System.out.println("Page title not matched");
+			System.out.println("Page title is not matching");
 		}		
 	}
 
