@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25806" started-at="2019-03-12T05:49:30Z" finished-at="2019-03-12T05:49:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25806" started-at="2019-03-12T05:49:30Z" finished-at="2019-03-12T05:49:55Z">
+      <class name="com.maveric.test.MavericConnectTest">
+        <test-method status="PASS" signature="initialization(java.lang.String)[pri:0, instance:com.maveric.test.MavericConnectTest@36f6e879]" name="initialization" is-config="true" duration-ms="9111" started-at="2019-03-12T05:49:30Z" finished-at="2019-03-12T05:49:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="positiveCredentialCheck()[pri:1, instance:com.maveric.test.MavericConnectTest@36f6e879]" name="positiveCredentialCheck" duration-ms="15561" started-at="2019-03-12T05:49:39Z" finished-at="2019-03-12T05:49:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveCredentialCheck -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.maveric.test.MavericConnectTest@36f6e879]" name="closeBrowser" is-config="true" duration-ms="1105" started-at="2019-03-12T05:49:54Z" finished-at="2019-03-12T05:49:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.maveric.test.MavericConnectTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

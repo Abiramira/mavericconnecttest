@@ -1,0 +1,6 @@
+com\maveric\utilities\PropertiesHandler.class
+com\maveric\pageobjects\MavericHomePage.class
+com\maveric\pageobjects\MavericLoginFormPage.class
+com\maveric\test\MavericConnectTest.class
+com\maveric\pageobjects\CorporatePointOfContact.class
+com\maveric\inialization\LaunchActivities.class
